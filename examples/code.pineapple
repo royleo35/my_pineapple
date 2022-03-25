@@ -1,0 +1,7 @@
+$a = "Hello World"
+$b = "NiHao"
+print($a)
+print($b)
+$c = "Next"
+$c = "Right"
+print(   $c   )
